@@ -1,12 +1,11 @@
-
 <h1 align="center">Hi, I'm Muzaffar</h1>
-<h3 align="center">Java Backend Developer | Java & Spring Boot | </h3>
+<h3 align="center">Java Backend Developer | Java & Spring Boot</h3>
 
 ---
 
 ### 🚀 About Me
 - 🔭 Currently building **high-performance backend services with Spring Boot**
-- 🌱 Diving deeper into **Cloud technologies, Microservices and DevOps**
+- 🌱 Diving deeper into **Cloud technologies, Microservices, and DevOps**
 - 💡 I enjoy solving complex problems and writing clean, scalable code
 - 💬 You can ask me about **Java, Spring Boot, PostgreSQL**
 - ⚡️ Fun fact: **I turn coffee into code ☕️**
@@ -22,7 +21,7 @@
 
 #### 🔹 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,git,github,postgres,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,SonarQube,github,postman" />
 </p>
 
 ---
@@ -47,8 +46,9 @@
 ---
 
 ### 🌐 Socials
-<p>
-  <a href="https://www.linkedin.com/in/samandar-uz"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muzaffarvv"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://t.me/muzaffar_023"><img src="https://skillicons.dev/icons?i=telegram" /></a>
+  <a href="https://leetcode.com/muzaffarvv/"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
 
----
