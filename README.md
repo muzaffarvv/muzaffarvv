@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muzaffar</h1>
-<h3 align="center">Java Backend Developer | Java & Spring Boot</h3>
+<h3 align="center">Java Backend Developer | Java & Spring Boot | </h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 🌱 Diving deeper into **Cloud technologies, Microservices, and DevOps**
 - 💡 I enjoy solving complex problems and writing clean, scalable code
 - 💬 You can ask me about **Java, Spring Boot, PostgreSQL**
-- ⚡️ Fun fact: **I turn coffee into code ☕️**
+- ⚡️ Fun fact: I enjoy UI/UX, playing volleyball, and finding & understanding bugs 🏐💻
 
 ---
 
