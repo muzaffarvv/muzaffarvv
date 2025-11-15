@@ -22,7 +22,7 @@
 
 #### 🔹 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,git,github,postgres,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,git,github,postgres,postman" />
 </p>
 
 ---
