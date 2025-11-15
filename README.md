@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muzaffar</h1>
-<h3 align="center">Java Backend Developer | Java & Spring Boot | </h3>
+<h3 align="center"> Java Backend Developer | Java & Spring Boot </h3>
 
 ---
 
