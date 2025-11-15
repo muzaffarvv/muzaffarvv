@@ -1,10 +1,6 @@
 
-<div align="center">
-  <img src="https://github.com/Boburbro/Boburbro/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
-</div>
-
-<h1 align="center">Hi, I'm Samandar</h1>
-<h3 align="center">Full Stack Developer | Java & Spring Boot | Flutter | PHP | MySQL</h3>
+<h1 align="center">Hi, I'm Muzaffar</h1>
+<h3 align="center">Java Backend Developer | Java & Spring Boot | </h3>
 
 ---
 
@@ -12,7 +8,7 @@
 - 🔭 Currently building **high-performance backend services with Spring Boot**
 - 🌱 Diving deeper into **Cloud technologies, Microservices and DevOps**
 - 💡 I enjoy solving complex problems and writing clean, scalable code
-- 💬 You can ask me about **Java, Spring Boot, Flutter, PHP, SQL**
+- 💬 You can ask me about **Java, Spring Boot, PostgreSQL**
 - ⚡️ Fun fact: **I turn coffee into code ☕️**
 
 ---
@@ -21,28 +17,32 @@
 
 #### 🔹 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,dart" />
+  <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
 #### 🔹 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,flutter,git,github,mysql,postgres,postman" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,postgres,postman" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samandar-uz&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samandar-uz&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muzaffarvv&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarvv&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=samandar-uz&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=muzaffarvv&theme=tokyonight" />
 </p>
+
+<div align="center">
+  <img src="https://github.com/Boburbro/Boburbro/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
+</div>
 
 ---
 
