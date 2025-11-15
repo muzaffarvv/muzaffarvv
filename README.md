@@ -48,7 +48,6 @@
 ### 🌐 Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/muzaffarvv"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://t.me/muzaffar_023"><img src="https://www.flaticon.com/search?word=telegram" /></a>
+  <a href="https://t.me/muzaffar_023"><img src="https://skillicons.dev/icons?i=telegram" /></a>
   <a href="https://leetcode.com/muzaffarvv/"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
-
