@@ -16,12 +16,12 @@
 
 #### 🔹 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,c++" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp" />
 </p>
 
 #### 🔹 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,sonarqube,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,github,postman" />
 </p>
 
 ---
