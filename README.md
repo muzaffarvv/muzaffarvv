@@ -1,9 +1,5 @@
-<h1 align="center">
-  <span style="color:#FF5733">H</span>
-  <span style="color:#FFC300">i</span>,
-  <span style="color:#DAF7A6">I'm</span>
-  <span style="color:#33FFBD">Muzaffar</span>
-</h1>
+<h1 align="center">💻👋 Hey there! I'm Muzaffar 🚀</h1>
+
 <h3 align="center"> Java Backend Developer | Java & Spring Boot </h3>
 
 ---
