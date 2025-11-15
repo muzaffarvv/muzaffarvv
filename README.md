@@ -1,4 +1,4 @@
-<h1 align="center">💻👋 Hey there! I'm Muzaffar 🚀</h1>
+<h1 align="center"> Hey there! I'm Muzaffar </h1>
 
 <h3 align="center"> Java Backend Developer | Java & Spring Boot </h3>
 
