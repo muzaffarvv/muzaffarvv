@@ -21,7 +21,7 @@
 
 #### 🔹 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,postman,idea,ps,powershell,rider" />
 </p>
 
 ---
