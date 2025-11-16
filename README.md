@@ -9,7 +9,7 @@
 - 🌱 Diving deeper into **Cloud technologies, Microservices, and DevOps**
 - 💡 I enjoy solving complex problems and writing clean, scalable code
 - 💬 You can ask me about **Java, Spring Boot, PostgreSQL**
-- ⚡️ Fun fact: I enjoy UI/UX, finding & understanding bugs and volleyball 🏐💻
+- ⚡️ Fun fact: I enjoy UI/UX, finding & understanding bugs 🏐💻
 
 ---
 
