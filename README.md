@@ -58,7 +58,7 @@
   <a href="https://t.me/muzaffar_023">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/muzaffarvv/">
+  <a href="https://leetcode.com/muzaffarvv">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </div>
