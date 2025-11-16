@@ -17,12 +17,12 @@
 
 #### 🔹 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
 #### 🔹 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,postman,idea,ps,powershell,rider" />
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,postman,idea,ps,powershell,rider,cpp" />
 </p>
 
 ---
